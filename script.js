@@ -1,1 +1,1 @@
-alert("test")
+let i = 1;
